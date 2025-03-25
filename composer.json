@@ -1,0 +1,19 @@
+{
+    "name": "monzuralam/wp-react-starter",
+    "description": "A simple WordPress React Starter Plugin for WordPress.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-later",
+    "autoload": {
+        "psr-4": {
+            "WRS\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "monzuralam",
+            "email": "monzur707@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
