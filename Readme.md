@@ -5,10 +5,10 @@ A lightweight boilerplate for integrating **React** into **WordPress** plugin de
 
 ## Features
 
-– **React Integration**: Leverage React for building dynamic and responsive admin and front-end UIs.  
-– **Build Tooling**: Configured with Webpack to bundle and transpile JS and CSS assets.  
-– **WordPress Integration**: Includes core PHP files to enqueue assets, define hooks, and register shortcode functionality.  
-– **Admin & Frontend Scaffolding**: Ready-to-use `App.js` structures for both admin and front-end modules.
+- ⚛️ **React Integration**: Build dynamic and responsive admin and front-end UIs with React.  
+- 🛠️ **Build Tooling**: Preconfigured Webpack setup to bundle and transpile JS and CSS assets.  
+- 📝 **WordPress Integration**: Core PHP files to enqueue assets, define hooks, and register shortcode functionality.  
+- 🧩 **Admin & Frontend Scaffolding**: Ready-to-use `App.js` structures for both admin and front-end modules.
 
 ## Project Structure
 
